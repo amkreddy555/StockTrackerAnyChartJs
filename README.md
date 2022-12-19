@@ -5,5 +5,5 @@
 https://gist.githubusercontent.com/amkreddy555/fa6ee88fa276449031742d2453df95f7/raw/64bdb6f7fca5f18c97d9380cf7e8e6fd6921a6ca/starkstocks.
 
 # Screenshot
-sample screenshot
+* A sample screenshot for reference
 ![Screenshot_20221219_200850](https://user-images.githubusercontent.com/38201687/208450567-5e65aeaa-1fe8-4001-8937-43d77ec95066.png)
